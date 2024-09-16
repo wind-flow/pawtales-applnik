@@ -1,8 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.wittyapps.pawtales",
-    "sha256_cert_fingerprints": ["SHA256 인증서 지문"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wittyapps.pawtales",
+      "sha256_cert_fingerprints":
+        ["CA:72:EE:49:75:3A:53:16:7C:79:AC:20:4B:F9:8B:1E:F0:4E:42:96:08:F5:78:F0:DF:FB:01:2D:DF:FF:90:18"]
+    }
   }
-}]
+]
